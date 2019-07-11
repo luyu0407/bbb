@@ -37,5 +37,6 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation 'com.github.yzbzz:media:1.0.0'
     implementation 'com.writingminds:FFmpegAndroid:0.3.2'
-    implementation 'com.github.luyu0407:aaa:1.0.0'
+//    implementation 'com.github.luyu0407:aaa:1.0.0'
+//    implementation 'com.github.luyu0407:bbb:1.0.0'
 }
